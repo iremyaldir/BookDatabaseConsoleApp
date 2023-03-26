@@ -1,0 +1,5 @@
+Enable-Migrations
+Add-Migration initialMigration
+Update-Database
+
+
